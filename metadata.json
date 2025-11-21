@@ -1,0 +1,5 @@
+{
+  "name": "Sunny Beach Volley",
+  "description": "A fun, arcade-style 1v1 beach volleyball game against a CPU. Features real-time AI commentary powered by Gemini.",
+  "requestFramePermissions": []
+}
